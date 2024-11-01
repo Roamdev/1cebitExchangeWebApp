@@ -2,6 +2,7 @@
   "name": "1cebit-exchange-web-app",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -29,6 +30,8 @@
       "not dead",
       "not op_mini all"
     ],
+    "author": "Roamdev",
+    "homepage": "https://github.com/Roamdev/1cebitExchangeWebApp#readme",
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
